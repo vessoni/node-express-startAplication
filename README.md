@@ -3,7 +3,6 @@
 This is a simple config to start development in Node Express, with all configs in VSCode.
 
 Steps:
-
 After install VSCode use this configs:
 https://github.com/vessoni/DevConfig
 
