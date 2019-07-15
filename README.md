@@ -12,4 +12,3 @@ Enter in folder and install all dependencies with - $ yarn
 Start aplication $ yarn dev
 
 access localhost:3333
-
